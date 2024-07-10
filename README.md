@@ -31,7 +31,7 @@ The developed system is a machine learning-based facial recognition and music re
 
 <h2>Results</h2>
 <div align="center">
-	<img  height ="400px" width ="500px" src="https://github.com/suryateja6302/Emotion-Based-Music-Recommendation-System/assets/111578838/8f770a80-d7eb-40d1-a603-f6cf6b51c226">
+	<img  height ="500px" width ="800px" src="https://github.com/suryateja6302/Emotion-Based-Music-Recommendation-System/assets/111578838/8f770a80-d7eb-40d1-a603-f6cf6b51c226">
  
 </div>
 

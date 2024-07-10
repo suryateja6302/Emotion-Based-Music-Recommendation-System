@@ -5,7 +5,7 @@
 </div>
 
 The developed system is a machine learning-based facial recognition and music recommendation system. It operates as follows:
-<h3>Modules</h3>
+<h2>Modules</h2>
 
 
 <ul>  

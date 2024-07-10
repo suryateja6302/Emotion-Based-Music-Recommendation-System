@@ -1,6 +1,6 @@
 <h2>About the Project</h2>
 <div align="center">
-	<img src="https://github.com/suryateja6302/Emotion-Based-Music-Recommendation-System/assets/111578838/41f35780-7d21-455c-a2bc-27c6cc170efa">
+	<img  height ="400px" src="https://github.com/suryateja6302/Emotion-Based-Music-Recommendation-System/assets/111578838/41f35780-7d21-455c-a2bc-27c6cc170efa">
  
 </div>
 

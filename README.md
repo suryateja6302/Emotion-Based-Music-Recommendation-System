@@ -23,43 +23,15 @@ The developed system is a machine learning-based facial recognition and music re
  
 </div>
 
-<h2>Modules</h2>
-<h3>Backend Development</h3>
-<ul>
-<li><h4></h4>Data Collection and Pre-Processing</h4></li>
-Data used in our study is a set of data taken from external hospitals and laboratories .
-It includes cleaning, preparing the data, arrange the data that we obtained.
-
-<li><h4>Feature Selection</h4></li>
-We used a Statistical Method Chi-Square for analysis.
-
-![image](https://github.com/suryateja6302/Thyro-Check/assets/111578838/03faa2b0-ed9b-4df7-879f-19d116abffa4)
-
-Higher the Chi-Square value the feature is more dependent on the response and it can be selected for model training.
-<li><h4>Machine learning classifiers</h4></li>
-To predict thyroid disease, observing the performance of different ML algorithms is the prime objective of this work.
-
-![image](https://github.com/suryateja6302/Thyro-Check/assets/111578838/6ec25cd6-47dd-4c73-99be-6a5a38ee9464)
-
-
-</ul>
-<h3>Frontend Development</h3>
-Frontend is developed using scripting languages HTML, CSS.
-Using Flask trained machine learning model is easily plugged, extended and deployed as a web application.
+<h2>Block Diagram</h2>
 <div align="center">
-	<img height="650" src="https://github.com/suryateja6302/Thyro-Check/assets/111578838/cc4e2d0a-e7bd-45c6-8605-9dc0f307b900">
- 
-</div>
-Interface to take parameters from the user for prediction.
-
-<div align="center">
-	<img height="500" src="https://github.com/suryateja6302/Thyro-Check/assets/111578838/3cab9514-fa78-418a-b539-2ca08a7f22c9">
+	<img  height ="400px" src="https://github.com/suryateja6302/Emotion-Based-Music-Recommendation-System/assets/111578838/ffad35cb-26d3-4e19-8339-eac554ce5e2b">
  
 </div>
 
-<h2>Algorithms Accuracy</h2>
+<h2>Results</h2>
 <div align="center">
-	<img src="https://github.com/suryateja6302/Thyro-Check/assets/111578838/56cd39c3-3b9a-462e-aee1-42417f5cc813">
+	<img  height ="400px" width ="500px" src="https://github.com/suryateja6302/Emotion-Based-Music-Recommendation-System/assets/111578838/8f770a80-d7eb-40d1-a603-f6cf6b51c226">
  
 </div>
 
